@@ -18,9 +18,5 @@
 
 ***If You Wanna Take Credits For This Code, Please Look Yourself Again...
 
-### Screenshot
-![FAST1](https://raw.githubusercontent.com/SidraELEzz/Fast/main/FAST1.png)
-
-
 
 
